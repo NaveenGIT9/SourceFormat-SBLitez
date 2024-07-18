@@ -11705,7 +11705,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.One__c</field>
+        <field>Asset.Xioami__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
